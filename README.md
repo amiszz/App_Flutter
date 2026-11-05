@@ -1,11 +1,16 @@
-# Instalacao automatizada no Windows
+# Aplicativo Flutter
 
-Execute **CONFIGURAR-FIREBASE.cmd** nesta pasta. Veja **LEIA-ME-INSTALACAO.md** para detalhes e seguranca.
+Aplicativo com cadastro, login e recuperação de senha usando Firebase Authentication.
 
-# Aplicativo Flutter — Firebase Authentication
+## Etapa 1 — Configuração
+- **O que foi feito:** configuração do Firebase e desenvolvimento do aplicativo.
+- **Uso de IA:** IA utilizada para ajudar a conexão do FireBase Auth com o Flutter, correção de textos e de desenvovimento do aplicativo.
 
-Projeto Flutter com telas de login e cadastro integradas ao Firebase Authentication por e-mail e senha, recuperação de senha, persistência da sessão e logout.
+## Tecnologias utilizadas
+- Flutter
+- Dart
+- Firebase Authentication
+- Firebase Core
 
-**Antes de executar**, siga o arquivo [FIREBASE_SETUP.md](FIREBASE_SETUP.md). Ele explica como vincular o aplicativo ao projeto Firebase `aplicativo-flutter-main` e gerar `lib/firebase_options.dart` com `flutterfire configure`.
-
-> O arquivo de configuração Firebase é gerado individualmente para seu projeto Firebase real, não foi incluído no ZIP e não deve ser substituído por valores fictícios.
+## Finalidade Acadêmica
+Trabalho prático desenvolvido para fins de aprendizado em desenvolvimento Flutter (Linguagem Dart).
